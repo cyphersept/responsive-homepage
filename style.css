@@ -41,6 +41,11 @@
     font-size: 1.125rem;
   }
 
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
   .description,
   .about-text {
     color: #555555;
@@ -208,6 +213,7 @@ main {
       justify-content: space-between;
       align-items: baseline;
       margin-bottom: 0.8rem;
+      color: black;
     }
 
     .sources {
