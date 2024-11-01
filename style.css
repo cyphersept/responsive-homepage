@@ -277,15 +277,21 @@ footer {
   header {
     .hero-img {
       margin-left: -2rem;
+      margin-bottom: 0;
 
       h1 {
         top: 0;
         text-align: right;
         width: calc(100vw - 4rem);
       }
+
+      img {
+        max-height: calc(62.5vw - 2.5rem);
+      }
     }
     .about {
       margin-top: 6rem;
+      height: calc(100vh - 16rem);
     }
     .about h2 {
       text-align: center;
@@ -342,14 +348,21 @@ footer {
       img {
         max-width: none;
         width: 100%;
+        max-height: none;
         height: auto;
         aspect-ratio: auto;
+      }
+
+      h1 {
+        top: unset;
+        text-align: center;
+        width: 100%;
       }
     }
 
     .about {
       box-shadow: none;
-      margin-top: 0;
+      margin: 0;
       background-color: transparent;
 
       .about-text {
@@ -359,6 +372,8 @@ footer {
       .socials {
         position: unset;
         display: flex;
+        font-size: 2rem;
+        gap: 1.5rem;
       }
     }
   }

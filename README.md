@@ -1,6 +1,6 @@
 # Live Site
 
-Hosted on [Github pages](https://cyphersept.github.io/responsive-homepage.)
+Hosted on [Github pages](https://cyphersept.github.io/responsive-homepage).
 
 # About
 
@@ -14,5 +14,5 @@ A responsive portfolio page replicated from design files from [The Odin Project]
 
 # Attributions
 
-Photos by [Anna Shvets](https://www.pexels.com/photo/woman-in-black-blazer-3727474/) from Pexels. 
+Photos by [Anna Shvets](https://www.pexels.com/photo/woman-in-black-blazer-3727474/) from Pexels.
 Icons from [DevIcons](https://devicon.dev/) and [Material Design Icons](https://pictogrammers.com/library/mdi/) courtesy of [Iconify](https://iconify.design).
