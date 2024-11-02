@@ -291,7 +291,8 @@ footer {
     }
     .about {
       margin-top: 6rem;
-      height: calc(100vh - 16rem);
+      height: fit-content;
+      min-height: calc(100vh - 16rem);
     }
     .about h2 {
       text-align: center;
@@ -334,6 +335,7 @@ footer {
 
   header {
     padding: 2rem;
+    height: unset;
     background: linear-gradient(
       167.5deg,
       var(--main-col) 45.5%,
